@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaLearing.iml" filepath="$PROJECT_DIR$/.idea/JavaLearing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java并发编程/code/java_concurrency.iml" filepath="$PROJECT_DIR$/java并发编程/code/java_concurrency.iml" />
     </modules>
   </component>
 </project>
